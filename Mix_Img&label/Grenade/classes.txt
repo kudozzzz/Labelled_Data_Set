@@ -1,0 +1,6 @@
+Hookah
+Cigarette
+Cigar
+Grenade
+Pistol
+'
